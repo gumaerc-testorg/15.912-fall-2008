@@ -2,8 +2,13 @@
 content_type: resource
 description: 'Lecture presentation on appropriability: uniqueness and complementary
   assets.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-912-technology-strategy-fall-2008/f7c8be68348f2bde30fd908188f8a54f_lec_09.pdf
+file: /media/courses/15-912-technology-strategy-fall-2008/f7c8be68348f2bde30fd908188f8a54f_lec_09.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Uniqueness and Complementary Assets
 uid: f7c8be68-348f-2bde-30fd-908188f8a54f

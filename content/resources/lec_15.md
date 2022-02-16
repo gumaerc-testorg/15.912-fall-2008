@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation on strategic management of platforms and ecosystem,
   and the case of Nokia, Apple iPhone, and Google phone.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-912-technology-strategy-fall-2008/5f2353b46bba58b50cd4186ff121a888_lec_15.pdf
+file: /media/courses/15-912-technology-strategy-fall-2008/5f2353b46bba58b50cd4186ff121a888_lec_15.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Strategic Management of Platforms and Ecosystems
 uid: 5f2353b4-6bba-58b5-0cd4-186ff121a888

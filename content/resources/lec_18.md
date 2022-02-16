@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation on the Toyota Prius launch strategy.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-912-technology-strategy-fall-2008/5e4f7da48f8ab8f9e2851a9dfb9ab9f1_lec_18.pdf
+file: /media/courses/15-912-technology-strategy-fall-2008/5e4f7da48f8ab8f9e2851a9dfb9ab9f1_lec_18.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Launching the Toyota Prius
 uid: 5e4f7da4-8f8a-b8f9-e285-1a9dfb9ab9f1

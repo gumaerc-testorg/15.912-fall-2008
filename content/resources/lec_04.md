@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture presentation on industry life cycles and evolution of markets.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-912-technology-strategy-fall-2008/a76b8c0f756a45ee78208c7f645f16bb_lec_04.pdf
+file: /media/courses/15-912-technology-strategy-fall-2008/a76b8c0f756a45ee78208c7f645f16bb_lec_04.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Market Evolution
 uid: a76b8c0f-756a-45ee-7820-8c7f645f16bb

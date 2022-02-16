@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture presentation providing a mid-course summary of strategy fundamentals
   and technology strategy.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-912-technology-strategy-fall-2008/3e1556353b1dcd10bdf296b66f1dfb49_lec_13b.pdf
+file: /media/courses/15-912-technology-strategy-fall-2008/3e1556353b1dcd10bdf296b66f1dfb49_lec_13b.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The Story So Far
 uid: 3e155635-3b1d-cd10-bdf2-96b66f1dfb49
