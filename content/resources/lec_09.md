@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09ebf9f5-7f5a-d06e-d51a-df0b2be9ad5d
 resourcetype: Document
 title: Uniqueness and Complementary Assets
 uid: f7c8be68-348f-2bde-30fd-908188f8a54f

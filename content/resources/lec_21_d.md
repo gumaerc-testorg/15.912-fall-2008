@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09ebf9f5-7f5a-d06e-d51a-df0b2be9ad5d
 resourcetype: Document
 title: Events 1979-1981
 uid: 5418ddbf-3eda-b878-4bf7-982b72d1cbcb

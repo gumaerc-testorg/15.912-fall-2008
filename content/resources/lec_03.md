@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09ebf9f5-7f5a-d06e-d51a-df0b2be9ad5d
 resourcetype: Document
 title: Introduction to Industry Life Cycles and Market Evolution
 uid: b52a9a54-9e22-0ca3-3d24-df4decccceec

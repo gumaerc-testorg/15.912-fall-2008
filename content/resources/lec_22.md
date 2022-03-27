@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09ebf9f5-7f5a-d06e-d51a-df0b2be9ad5d
 resourcetype: Document
 title: 'Kodak: Managing Through Discontinuities'
 uid: 91a7a6ff-fe3a-e4d4-0b66-07bb9f5859e6

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09ebf9f5-7f5a-d06e-d51a-df0b2be9ad5d
 resourcetype: Document
 title: Value Capture in Abgenix
 uid: d616202b-6dd6-9ba1-8c58-ad1625605c58

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 09ebf9f5-7f5a-d06e-d51a-df0b2be9ad5d
 resourcetype: Document
 title: Vertical and Horizontal Strategies in Converging Ecosystems
 uid: 1231ba48-4a07-2ec9-2d00-7abb79f18f37
