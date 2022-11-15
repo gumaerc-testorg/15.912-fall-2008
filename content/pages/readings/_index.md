@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the list of reading assignments for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -253,7 +254,7 @@ Case: Nokia, Apple iPhone, and Google phone
 
 Brandenburger, Adam, and Barry Nalebuff. _Co-Opetition_. New York, NY: Broadway Business, 1997. (Read chapter 1 "War and Peace," chapter 2 "Co-Opetition," and chapter 5 "Added Value," pp. 3-39 and 110-158.) ISBN: 9780385479509.
 
-[Additional articles]({{< baseurl >}}/pages/readings/lec15)
+{{% resource_link 13ff30e2-1cf8-a474-6ad8-0b0e7b8c1e6e "Additional articles" %}}
 
 
 {{< tdclose >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course along with the
+  list of lecture topics and associated discussion questions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -53,7 +55,7 @@ When is a technology strategy useful? What should be its role?
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_01))
+({{% resource_link 44ca00f7-b7ec-00ed-e2ba-d465fdb36e69 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +90,7 @@ Which capabilities should eInk build?
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_02))
+({{% resource_link 0bfd789f-85bc-9fb6-d209-a3c76cc43fdc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +127,7 @@ What is your recommended next step for the iPod/iTunes business?
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_03))
+({{% resource_link b52a9a54-9e22-0ca3-3d24-df4decccceec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +142,7 @@ Industry life cycles and evolution of markets
 Bring your questions and/or reflections on the content so far to class.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_04))
+({{% resource_link a76b8c0f-756a-45ee-7820-8c7f645f16bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +169,7 @@ How should Novartis restructure now?
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_05))
+({{% resource_link 14bf93b5-fa46-a5eb-5755-11d260809ebb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +194,7 @@ Of the three options outlined on page 10 of the case, which do you think makes t
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_06))
+({{% resource_link 1ae593f6-a836-5c11-f1c0-a42ee6a03f0e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +209,7 @@ Organizational of innovation: structure, processes and incentives
 Bring your questions and/or reflections on the content so far to class.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_07))
+({{% resource_link 547b8860-ef78-96d1-5ffc-a525c211b5d3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +236,7 @@ Who else could capture value from the Xeno Mouse?
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_08))
+({{% resource_link d616202b-6dd6-9ba1-8c58-ad1625605c58 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +251,7 @@ Appropriability: uniqueness and complementary assets
 Bring your questions and/or reflections on the content so far to class.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_09))
+({{% resource_link f7c8be68-348f-2bde-30fd-908188f8a54f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -272,7 +274,7 @@ What should Ember's strategy be?
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_10))
+({{% resource_link e82729bc-4eb5-a5b6-cf09-9239357c2822 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,7 +289,7 @@ Open standards, increasing returns, and propriety control
 Bring your questions and/or reflections on the content so far to class.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_11))
+({{% resource_link 322222c7-367c-f421-1f06-659bb72c689a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -314,7 +316,7 @@ What should Red Hat do now?
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_12))
+({{% resource_link 532d76ca-cf81-e3a8-bbf9-aa43b820bcaa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -345,9 +347,9 @@ What are the most important markets that Google should enter? Why?
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lec_13a))
+({{% resource_link 3181e53a-fa79-a1fe-6692-1eb8426c00da "PDF" %}})
 
-Mid-course summary ([PDF]({{< baseurl >}}/resources/lec_13b))
+Mid-course summary ({{% resource_link 3e155635-3b1d-cd10-bdf2-96b66f1dfb49 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -364,7 +366,7 @@ Horizontal / vertical strategies and the evolution of the value chain
 Bring your questions and/or reflections on the content so far to class.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_14))
+({{% resource_link 1231ba48-4a07-2ec9-2d00-7abb79f18f37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -399,7 +401,7 @@ Who will win the battle? Who will be most successful? Why?
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_15))
+({{% resource_link 5f2353b4-6bba-58b5-0cd4-186ff121a888 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -445,7 +447,7 @@ What should they do now?
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_17))
+({{% resource_link aae631c0-1de7-d047-918d-0cf82007c601 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -468,7 +470,7 @@ Should Toyota launch the Prius at this time or not? Why now? Why not wait?
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_18))
+({{% resource_link 5e4f7da4-8f8a-b8f9-e285-1a9dfb9ab9f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -483,7 +485,7 @@ Organizational dynamics: overload, time-pacing, simple rules, and probing
 Bring your questions and/or reflections on the content so far to class.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.2 MB]({{< baseurl >}}/resources/lec_19))
+({{% resource_link 4fe6b811-c63b-af06-82e2-ddbd062760f4 "PDF - 3.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -500,7 +502,7 @@ Class 20 and 21 focus on a class-based exercise.
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lec_20_a))
+({{% resource_link fe17eca2-0ecd-4e32-b170-e92ad17f7dd2 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -519,7 +521,7 @@ Class 20 and 21 focus on a class-based exercise.
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lec_21_d))
+({{% resource_link 5418ddbf-3eda-b878-4bf7-982b72d1cbcb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -550,7 +552,7 @@ What should Kodak do next?
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec_22))
+({{% resource_link 91a7a6ff-fe3a-e4d4-0b66-07bb9f5859e6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -580,7 +582,7 @@ Conclusions and reflections
 Bring your questions and/or reflections on the content so far to class.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.4 MB]({{< baseurl >}}/resources/lec_24))
+({{% resource_link 7a0d875d-da0a-e5a0-deb6-99f3c61cb4ca "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
