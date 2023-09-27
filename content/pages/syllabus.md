@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading, class attendance and participation, a summary of course
+  deliverables, collaboration policy, and supplemental readings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -110,4 +113,4 @@ Supplementary readings are used to illustrate key concepts in each section of th
 *   Core concepts in network externalities
 *   Why responding to discontinuous technological change is so difficult and what to do about it
 
-....then you may wish to read ahead in the papers listed in the [supplemental readings]({{< baseurl >}}/pages/supplementary-readings) section.
+....then you may wish to read ahead in the papers listed in the {{% resource_link 8a994570-db55-34d7-aaf6-5af10ecb8d14 "supplemental readings" %}} section.
