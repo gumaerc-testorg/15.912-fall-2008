@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture presentation on value capture: the case of Abgenix and the XenoMouse.'
 file: /courses/15-912-technology-strategy-fall-2008/d616202b6dd69ba18c58ad1625605c58_lec_08.pdf
+file_size: 176870
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

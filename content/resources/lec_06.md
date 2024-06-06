@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture presentation on a partnership case: Intel (A): photolithography
   strategy in crisis.'
 file: /courses/15-912-technology-strategy-fall-2008/1ae593f6a8365c11f1c0a42ee6a03f0e_lec_06.pdf
+file_size: 239762
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
