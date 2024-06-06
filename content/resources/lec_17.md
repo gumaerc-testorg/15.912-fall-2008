@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on Medtronic Corporation's cardiac pacemaker business
   and strategies of Medtronics activity system.
 file: /courses/15-912-technology-strategy-fall-2008/aae631c01de7d047918d0cf82007c601_lec_17.pdf
+file_size: 237869
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

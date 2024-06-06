@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture presentation on appropriability: uniqueness and complementary
   assets.'
 file: /courses/15-912-technology-strategy-fall-2008/f7c8be68348f2bde30fd908188f8a54f_lec_09.pdf
+file_size: 334486
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
