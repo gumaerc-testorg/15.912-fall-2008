@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on vertical and horizontal strategies in converging
   ecosystems, and the evolution of the value chain.
-file: /courses/15-912-technology-strategy-fall-2008/1231ba484a072ec92d007abb79f18f37_lec_14.pdf
+file: /ol-ocw-studio-app/courses/15-912-technology-strategy-fall-2008/1231ba484a072ec92d007abb79f18f37_lec_14.pdf
 file_size: 224765
 file_type: application/pdf
 learning_resource_types:

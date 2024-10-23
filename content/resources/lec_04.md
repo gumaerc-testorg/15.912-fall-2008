@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on industry life cycles and evolution of markets.
-file: /courses/15-912-technology-strategy-fall-2008/a76b8c0f756a45ee78208c7f645f16bb_lec_04.pdf
+file: /ol-ocw-studio-app/courses/15-912-technology-strategy-fall-2008/a76b8c0f756a45ee78208c7f645f16bb_lec_04.pdf
 file_size: 384523
 file_type: application/pdf
 learning_resource_types:
