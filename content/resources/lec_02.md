@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on S curves and effective strategies to tackle key
   questions.
-file: /ol-ocw-studio-app/courses/15-912-technology-strategy-fall-2008/0bfd789f85bc9fb6d209a3c76cc43fdc_lec_02.pdf
+file: /courses/15-912-technology-strategy-fall-2008/0bfd789f85bc9fb6d209a3c76cc43fdc_lec_02.pdf
 file_size: 378655
 file_type: application/pdf
 learning_resource_types:
