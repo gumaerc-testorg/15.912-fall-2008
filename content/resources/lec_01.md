@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on creating, capturing, and delivering value with
   technology strategy.
-file: /ol-ocw-studio-app/courses/15-912-technology-strategy-fall-2008/44ca00f7b7ec00ede2bad465fdb36e69_lec_01.pdf
+file: /courses/15-912-technology-strategy-fall-2008/44ca00f7b7ec00ede2bad465fdb36e69_lec_01.pdf
 file_size: 1009599
 file_type: application/pdf
 learning_resource_types:
