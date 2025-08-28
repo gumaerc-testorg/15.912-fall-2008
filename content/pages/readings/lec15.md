@@ -23,7 +23,7 @@ Kim, Gary. "Will Android Cannibalize iPhone or BlackBerry?" *Technology Marketin
 
 Diaz, Jesus. "[Pwnage iPhone Unlocking and Hacking Tool Now Available, Works Great](http://gizmodo.com/375493/pwnage-iphone-unlocking-and-hacking-tool-now-available-works-great)." *Gizmodo*, April 3, 2008.
 
-Silverberg, David. "[Study of iPhone Users Reveals Interesting Habits of Apple Customers](http://www.digitaljournal.com/print/article/252602)." *Digital Journal*, April 3, 2008.
+Silverberg, David. "[Study of iPhone Users Reveals Interesting Habits of Apple Customers](https://www.digitaljournal.com/tech-science/study-of-iphone-users-reveals-interesting-habits-of-apple-customers/article/252602)." *Digital Journal*, April 3, 2008.
 
 Holson, Laura M. "[Mobile Phone Industry Takes Aim at the iPhone](http://www.nytimes.com/2008/04/04/technology/04phone.html?_r=2&ref=business&oref=slogin)." *New York Times*, April 4, 2008.
 
