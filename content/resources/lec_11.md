@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on open standards, increasing returns, and propriety
   control.
-file: /courses/15-912-technology-strategy-fall-2008/322222c7367cf4211f06659bb72c689a_lec_11.pdf
+file: /ol-ocw-studio-app/courses/15-912-technology-strategy-fall-2008/322222c7367cf4211f06659bb72c689a_lec_11.pdf
 file_size: 250919
 file_type: application/pdf
 learning_resource_types:

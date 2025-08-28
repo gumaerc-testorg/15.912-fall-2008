@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture presentation on organizational dynamics: overload, time-pacing,
   simple rules, and probing.'
-file: /courses/15-912-technology-strategy-fall-2008/4fe6b811c63baf0682e2ddbd062760f4_lec_19.pdf
+file: /ol-ocw-studio-app/courses/15-912-technology-strategy-fall-2008/4fe6b811c63baf0682e2ddbd062760f4_lec_19.pdf
 file_size: 3305164
 file_type: application/pdf
 learning_resource_types:
