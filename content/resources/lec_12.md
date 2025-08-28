@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on the case of Red Hat and the Linux revolution.
-file: /courses/15-912-technology-strategy-fall-2008/532d76cacf81e3a8bbf9aa43b820bcaa_lec_12.pdf
+file: /ol-ocw-studio-app/courses/15-912-technology-strategy-fall-2008/532d76cacf81e3a8bbf9aa43b820bcaa_lec_12.pdf
 file_size: 153508
 file_type: application/pdf
 learning_resource_types:

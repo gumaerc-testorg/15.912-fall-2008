@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on with an introduction to organization structure,
   value creation, and the case of Novartis.
-file: /courses/15-912-technology-strategy-fall-2008/14bf93b5fa46a5eb575511d260809ebb_lec_05.pdf
+file: /ol-ocw-studio-app/courses/15-912-technology-strategy-fall-2008/14bf93b5fa46a5eb575511d260809ebb_lec_05.pdf
 file_size: 253710
 file_type: application/pdf
 learning_resource_types:
